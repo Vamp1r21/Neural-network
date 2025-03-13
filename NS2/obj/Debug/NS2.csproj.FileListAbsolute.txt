@@ -1,0 +1,10 @@
+C:\Users\Vampir\source\repos\NS2\NS2\bin\Debug\NS2.exe.config
+C:\Users\Vampir\source\repos\NS2\NS2\bin\Debug\NS2.exe
+C:\Users\Vampir\source\repos\NS2\NS2\bin\Debug\NS2.pdb
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.csproj.AssemblyReference.cache
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.Form1.resources
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.Properties.Resources.resources
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.csproj.GenerateResource.cache
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.csproj.CoreCompileInputs.cache
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.exe
+C:\Users\Vampir\source\repos\NS2\NS2\obj\Debug\NS2.pdb
