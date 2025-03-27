@@ -14,9 +14,9 @@ namespace NS2
             _weight = weight;
         }
 
-        public double CalculateFunctiponBasis(double x)
+        public double CalculateFunctiponBasis(double x, double sigma)
         {
-            return (Math.Exp(-(Math.Pow(Math.Abs(x - _weight), 2.0) / (2.0 * (Math.Pow(1.0, 2.0))))));
+            return (Math.Exp(-(Math.Pow(Math.Abs(x - _weight), 2.0) / (2.0*(Math.Pow(sigma, 2.0))))));
         }
     }
 }
